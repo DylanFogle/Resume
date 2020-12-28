@@ -1,6 +1,5 @@
 import pygame, sys, os, random
 from pygame.locals import *
-from pygame.math import Vector2
 
 SCREENX = 600
 SCREENY = 600
